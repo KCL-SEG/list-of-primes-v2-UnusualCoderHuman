@@ -1,6 +1,6 @@
 """List of prime numbers generator."""
 """ENTER YOUR SOLUTION HERE!"""
-
+#good and short code 
 def primes(number_of_primes):
     if number_of_primes <= 0:
         raise ValueError("Please only input Positive Numbers Only.")
